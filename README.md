@@ -1,2 +1,2 @@
 # Linear-Regression-from-Scratch
-LR model from scratch and comparision between scikit-learn LR
+This project involves creating a custom Linear Regression model and comparing its performance with the Linear Regression model from the scikit-learn library. The custom model is implemented with options for fitting an intercept. A sample dataset is used for training and testing. The script calculates and compares intercepts, coefficients, R-squared (R2) scores, and Root Mean Squared Error (RMSE) between the two models, providing insights into their accuracy and behavior.
